@@ -16,7 +16,7 @@ In:
 - Joan: [vax_Joan.jpg](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Joan.jpg>) [accred_Joan.jpg](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Joan.jpg>) info 517H COMPLETE!
 - Peggy: [vax_Peggy.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Peggy.pdf>) [accred_Peggy.png](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Peggy.png>) info 110T COMPLETE!
 - Rachel: [vax_Rachel.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Rachel.pdf>) [accred_Rachel.png](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Rachel.png>) info 1981F COMPLETE!
-- Yanling: [vax_Yanling.jpg](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Yanling.jpg>) [[accred_Yanling.jpg]] info 154D COMPLETE!
+- Yanling: [vax_Yanling.jpg](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Yanling.jpg>) ?? info 154D COMPLETE!
 - Yi Ling: [vax_Yiling.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Yiling.pdf>) [accred_Yiling.png](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Yiling.png>) info 434E COMPLETE!
 
 black jersey

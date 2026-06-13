@@ -4,7 +4,7 @@ Player's Briefing Book ![](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbe
 [[Team Data]]
 [[WFDF Letters]]
 
-WFDF accreditation: [[Certificate.png]]
+WFDF accreditation: ??
 
 [[4v4 tourney 20th March]]
 

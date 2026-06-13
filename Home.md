@@ -1,5 +1,6 @@
 # Directions
-![[staircase.png.png]]
+
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/home/staircase.png>)
 
 hier die Wegbeschreibung: fahr mit der grünen oder lila MRT Linie bis Outram Park. Verlass die Station in richtung Outram Road. Vom Ausgang solltest du eine Fußgängerbrückeüber die Straße sehen. Gehe in diese Richtung. Da ist auch eine Bushaltestelle und ein Taxistand...  
   

@@ -1,6 +1,6 @@
 [[ResMed]]
 [[Healint]]
-[[Hunter Bond]]
+??
 
 
 ## Cover Letter, ChatGPT
@@ -26,8 +26,8 @@ about me:
 
 ## CV
 
-![[2023-03_UBornheimer_Resume.pdf]]
+??
 
 
 
-![[2022-11_Resume_UBornheimer.pdf]]
+??
