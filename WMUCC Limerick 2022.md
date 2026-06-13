@@ -1,4 +1,4 @@
-Player's Briefing Book ![](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/2022%20WMUCC%20PBB%20IRL%20low%20res.pdf>)![](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/WMUCC%202022%20Event%20Guide.pdf>)
+Player's Briefing Book ![[2022 WMUCC PBB IRL low res.pdf]]![[WMUCC 2022 Event Guide.pdf]]
 
 [[Accommodation Limerick]]
 [[Team Data]]
