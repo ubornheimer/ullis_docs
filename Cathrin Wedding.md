@@ -1,3 +1,3 @@
 Hen Party:
 
-![[ant.jpeg]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/Pictures/ant.jpeg>)

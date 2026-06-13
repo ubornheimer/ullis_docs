@@ -1,3 +1,3 @@
 #Lego #Castle #Burg #Bluebrixx
 
-![[107089 Burg Blaustein - Bergfried Hauptanleitung 1.8.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/spiele/107089%20Burg%20Blaustein%20-%20Bergfried%20Hauptanleitung%201.8.pdf>)

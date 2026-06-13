@@ -3,7 +3,7 @@
 [[Horse Riding Rhoen]]
 [[Chrissi Wedding]]
 
-flight ticket: [[2022-08_flight-ticket.pdf]]
+flight ticket: [2022-08_flight-ticket.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2022-08_DE/2022-08_flight-ticket.pdf>)
 
 # Holidays
 

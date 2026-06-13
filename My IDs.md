@@ -1,10 +1,10 @@
 [[Travel]]
 
 ## Vaccination Cert
-![[vax_Ulli.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/myids/VaccinationCerts/vax_Ulli.pdf>)
 
-![[verify.gov.sg.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/myids/VaccinationCerts/verify.gov.sg.pdf>)
 
 ## Passport
 
-![[passport2032.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/myids/passport2032.pdf>)

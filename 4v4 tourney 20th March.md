@@ -7,17 +7,17 @@ It starts 1.30pm may need to register earlier at 12.30pm maybe and finals end at
 
 # Roster
 In:
-- Agatha: [[vax_Agatha.pdf]] [[accred_Agatha.jpg]] info 961H COMPLETE!
-- Alicia: [[accred_Alicia.pdf]] [[vax_Alicia.jpg]] info 199A COMPLETE!
-- Andrea: [[vax_Andrea.jpg]] info 177I 
-- Angie: [[vax_Angelina.pdf]] [[accred_Angelina.jpg]] info 578H COMPLETE!
-- Carol: [[accred_Carol.jpg]] [[vax_Carol.pdf]] info 962Q COMPLETE!
-- Cyn: [[vax_Cynthia.pdf]] [[accred_Cynthia.png]] info 779Z COMPLETE!
-- Joan: [[vax_Joan.jpg]] [[accred_Joan.jpg]] info 517H COMPLETE!
-- Peggy: [[vax_Peggy.pdf]] [[accred_Peggy.png]] info 110T COMPLETE!
-- Rachel: [[vax_Rachel.pdf]] [[accred_Rachel.png]] info 1981F COMPLETE!
-- Yanling: [[vax_Yanling.jpg]] [[accred_Yanling.jpg]] info 154D COMPLETE!
-- Yi Ling: [[vax_Yiling.pdf]] [[accred_Yiling.png]] info 434E COMPLETE!
+- Agatha: [vax_Agatha.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Agatha.pdf>) [accred_Agatha.jpg](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Agatha.jpg>) info 961H COMPLETE!
+- Alicia: [accred_Alicia.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Alicia.pdf>) [vax_Alicia.jpg](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Alicia.jpg>) info 199A COMPLETE!
+- Andrea: [vax_Andrea.jpg](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Andrea.jpg>) info 177I 
+- Angie: [vax_Angelina.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Angelina.pdf>) [accred_Angelina.jpg](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Angelina.jpg>) info 578H COMPLETE!
+- Carol: [accred_Carol.jpg](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Carol.jpg>) [vax_Carol.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Carol.pdf>) info 962Q COMPLETE!
+- Cyn: [vax_Cynthia.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Cynthia.pdf>) [accred_Cynthia.png](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Cynthia.png>) info 779Z COMPLETE!
+- Joan: [vax_Joan.jpg](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Joan.jpg>) [accred_Joan.jpg](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Joan.jpg>) info 517H COMPLETE!
+- Peggy: [vax_Peggy.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Peggy.pdf>) [accred_Peggy.png](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Peggy.png>) info 110T COMPLETE!
+- Rachel: [vax_Rachel.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Rachel.pdf>) [accred_Rachel.png](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Rachel.png>) info 1981F COMPLETE!
+- Yanling: [vax_Yanling.jpg](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Yanling.jpg>) [[accred_Yanling.jpg]] info 154D COMPLETE!
+- Yi Ling: [vax_Yiling.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Yiling.pdf>) [accred_Yiling.png](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Yiling.png>) info 434E COMPLETE!
 
 black jersey
 Carol
@@ -37,7 +37,7 @@ Joan
 
 Backup In:
 
-- Ulli: [[vax_Ulli.pdf]] [[accred_Ulli.png]] info 478P COMPLETE!
+- Ulli: [vax_Ulli.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/vax_Ulli.pdf>) [accred_Ulli.png](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/certs/accred_Ulli.png>) info 478P COMPLETE!
 - Yoonee: info
 
 Out:

@@ -22,4 +22,4 @@ Rückflug von Lissabon - SG
 
 
 canceled:
-![[SingaporeAirlinesCanceled.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2024-09_DE/SingaporeAirlinesCanceled.pdf>)

@@ -3,4 +3,4 @@
 09/2013 - 12/2014: Berliner Straße 6, 60311 Frankfurt am Main
 06/2011 - 08/2013: Niederbornstraße 15, 60435 Frankfurt am Main
 
-![[Abmeldebestaetigung.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/home/Frankfurt/Abmeldebestaetigung.pdf>)

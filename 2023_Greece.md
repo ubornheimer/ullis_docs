@@ -42,16 +42,16 @@ Freitag:
 
 
 
-![[Scoot.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2023-10_Greece/Scoot.pdf>)
 
-![[Aegean.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2023-10_Greece/Aegean.pdf>)
 
-![[Car.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2023-10_Greece/Car.pdf>)
 
 
-![[car2.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2023-10_Greece/car2.pdf>)
 
-![[ApartmentHeraklion.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2023-10_Greece/ApartmentHeraklion.pdf>)
 
-![[ParentsFlight_FRA-ATH.pdf]]
-![[ApartmentAthens.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2023-10_Greece/ParentsFlight_FRA-ATH.pdf>)
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2023-10_Greece/ApartmentAthens.pdf>)

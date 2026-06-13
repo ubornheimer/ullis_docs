@@ -4,7 +4,7 @@
 
 WFDF accreditation: 
 - ID: 46337
-- Cert: [[frisbee/SOTG/accred_Ulli.png]]
+- Cert: [accred_Ulli.png](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/SOTG/accred_Ulli.png>)
 
 WADA anti-doping accreditation:
 [[cert_doping.pdf]]

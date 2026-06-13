@@ -1,1 +1,1 @@
-![[Checkout - Riders Resort.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2022-12_Johor/Checkout%20-%20Riders%20Resort.pdf>)

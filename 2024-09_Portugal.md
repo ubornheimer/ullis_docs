@@ -15,13 +15,13 @@ Monday:
 - Alex
 - 
 
-![[FaroFlight.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2024-09_DE/FaroFlight.pdf>)
 
-![[FaroCar.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2024-09_DE/FaroCar.pdf>)
 
-![[PortimaoAccomm.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2024-09_DE/PortimaoAccomm.pdf>)
 
 14.-19. WBUCC
 Rückflug von Lissabon - SG
 
-![[docs/travel/2024-09_DE/EmiratesTicket1.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2024-09_DE/EmiratesTicket1.pdf>)

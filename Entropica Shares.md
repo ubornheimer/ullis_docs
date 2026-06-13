@@ -1,1 +1,1 @@
-[[Letter of grant - UB.pdf]]
+[Letter of grant - UB.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/visa%3Aemployment/entropica/Letter%20of%20grant%20-%20UB.pdf>)

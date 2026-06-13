@@ -19,41 +19,41 @@
 
 SIN-FRA Hin- und Rückflug
 
-![[Flug_SIN-FRA.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2025-05_UK_ESP_DE/Flug_SIN-FRA.pdf>)
 
 Hahn-LHR Flug
 
-![[Flug_Hahn-London.png]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2025-05_UK_ESP_DE/Flug_Hahn-London.png>)
 
 Hotel London
 
-![[Hotel_London.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2025-05_UK_ESP_DE/Hotel_London.pdf>)
 
 London pass - phone
 
-![[PalaceParliamentTour1.png]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2025-05_UK_ESP_DE/PalaceParliamentTour1.png>)
 
-![[PalaceParliament2.png]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2025-05_UK_ESP_DE/PalaceParliament2.png>)
 
 Stonehenge
 
-![[Stonehenge.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2025-05_UK_ESP_DE/Stonehenge.pdf>)
 
 Hotel Newbury
-![[Hotel_Newbury.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2025-05_UK_ESP_DE/Hotel_Newbury.pdf>)
 
 Flug London-Girona
-![[Flug_London-Girona.png]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2025-05_UK_ESP_DE/Flug_London-Girona.png>)
 
 Flug LHR-FRA
-![[Flug_LHR-FRA.png]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2025-05_UK_ESP_DE/Flug_LHR-FRA.png>)
 
 Girona Auto
 
-![[Auto_Girona.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2025-05_UK_ESP_DE/Auto_Girona.pdf>)
 
 Girona Hotels
 
-![[Hotel_Girona1.pdf]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2025-05_UK_ESP_DE/Hotel_Girona1.pdf>)
 
-![[Hotel_Girona2.pdf]]![[Flug_Girona-Hahn.png]]
+![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2025-05_UK_ESP_DE/Hotel_Girona2.pdf>)![](<file:///Users/ubornheimer/Dropbox/persoenlich/docs/travel/2025-05_UK_ESP_DE/Flug_Girona-Hahn.png>)

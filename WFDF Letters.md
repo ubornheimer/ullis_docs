@@ -22,4 +22,4 @@ C6611149
 28/03/1990
 Vietnamese
 
-letters: e.g. [[UPAS_MW_2022_Letter_Elaine.pdf]]
+letters: e.g. [UPAS_MW_2022_Letter_Elaine.pdf](<file:///Users/ubornheimer/Dropbox/persoenlich/frisbee/Samsui/letters/UPAS_MW_2022_Letter_Elaine.pdf>)
