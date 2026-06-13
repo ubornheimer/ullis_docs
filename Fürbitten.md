@@ -1,0 +1,6 @@
+1. Wir bitten für das Brautpaar. Dass ihre Ehe mit so viel Freude und Liebe gesegnet sei, dass sie diese großzügig an ihre Freunde und Familie weitergeben können.
+2. Wir bitten für Freunde und Familienmitglieder, die gerade durch Krankheit oder andere schwierige Situationen gehen. Dass sie die Kraft und Hoffnung finden, die sie brauchen um diese Situationen zu meistern.
+3.  Wir bitten für unsere Kinder. Dass sie sich von der Coronaisolation gut erholen und zu liebevollen und verantwortungsbewussten Menschen heranwachsen.
+4. Wir bitten für die Schwachen in unserer Gesellschaft. Dass sie einen möglicherweise schwierigen Winter gut durchstehen mögen und auch in schwierigen Situationen ihrem moralischen Kompass treu bleiben können.
+5. Wir bitten für die von Krieg und Politik aus ihrer Heimat Vertriebenen. Dass sie an ihren Aufnahmeorten Freundschaft, Schutz und Frieden finden.
+6. Wir bitten für unseren Planeten. Dass wir es mit Friedenswillen, Einsicht und technischen Innovationen schaffen, die Erde in ihrer Schönheit wieder herzustellen und zu erhalten.

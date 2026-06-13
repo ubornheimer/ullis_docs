@@ -1,0 +1,11 @@
+### Knossos
+
+Knossos, located near modern-day Heraklion, is the most extensive Bronze Age archaeological site on Crete. It is considered the main center of the Minoan civilization, which is named after the mythological King Minos, associated with the Labyrinth and the Minotaur myths. Excavated primarily by British archaeologist Arthur Evans in the early 20th century, Knossos has revealed a wealth of artifacts, frescoes, and architectural marvels. The palace complex is known for its labyrinthine layout, with multiple stories, large courtyards, intricate frescoes, and an advanced plumbing system that included running water and a sewage system. Knossos was not only a political and ceremonial center but also a hub of commerce and trade. Its decline is shrouded in mystery but is generally attributed to natural disasters and invasions.
+
+### Phaistos
+
+Phaistos, located in the Messara Plain in south-central Crete, was another significant Minoan city but is generally considered secondary to Knossos in terms of its size and influence. The city was built around a grand palace complex that shared architectural similarities with Knossos but had its own unique characteristics. Phaistos was excavated by Italian archaeologist Federico Halbherr in the early 20th century, and the findings included elaborate pottery, tools, and the mysterious Phaistos Disk. This disk, made of baked clay, contains symbols imprinted in a spiral pattern and has puzzled scholars for decades, as the script remains undeciphered. Phaistos had a strategic location that made it a key player in regional politics and trade.
+
+### Gortyna
+
+Gortyna, unlike the other two sites, has a history that extends well beyond the Minoan period. Located near the Lousios River in southern Crete, Gortyna became prominent during Roman times and served as the capital of the Roman province of Crete and Cyrenaica. It was a sprawling urban center with a theatre, temples, and public buildings. One of the most remarkable finds in Gortyna was the "Gortyn Code," a comprehensive legal code that dates back to the 5th century BCE. This law code is one of the earliest and most complete surviving legal codes from ancient Greece. The city also holds Christian significance, with one of the earliest Christian basilicas in Crete.
